@@ -10,4 +10,4 @@ as much as you can in 1 min.
 You have to type the name of the colour which is present
 on the text.<br />
 It gets tricky when the text are also the spelling 
-of some random colours
+of some random colours :)
