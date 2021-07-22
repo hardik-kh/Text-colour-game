@@ -8,6 +8,6 @@ as much as you can in 1 min.
 
 # Rules
 You have to type the name of the colour which is present
-on the text.
-It gets tricky when the text are also the spelling <br />
+on the text.<br />
+It gets tricky when the text are also the spelling 
 of some random colours
